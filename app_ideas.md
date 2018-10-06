@@ -1,4 +1,4 @@
-##Favorite Apps
+**Favorite Apps**
 
 Varun:
 1. Reddit
