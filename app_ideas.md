@@ -28,12 +28,15 @@ Jennifer:
 2. Alarmy
 3. DISTRAINT: Pocket Pixel Horror 
 
+App ideas:
+
+
 Roober:
 1. Reddit
 2. Snapchat
 3. Discord
 
-**App Ideas**
+App Ideas
 1. An app that lets you find other people who like the same video games as you in your area so you can meet up.
 2. App that lets you meet up with other people for running and other exercises. 
 3. App that lets you sell used console games and you can see what other people in your area/zipcode are selling.
